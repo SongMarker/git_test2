@@ -1,5 +1,8 @@
 public class Hello {
     public void say() {
-        System.out.println("안녕하세요");
+
+        String message = "제ㅏ하하하하ㅏ하하"
+
+        System.out.println(message);
     }
 }
